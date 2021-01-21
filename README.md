@@ -81,7 +81,7 @@ http://127.0.0.1:8000.
 There are a number of other useful `make` commands which you can check out with 
 `make help` or by looking at the [Makefile](Makefile).
 
-## Assignment
+## Tasks
 
 - **Make sure to read through the whole assignment before you start writing your 
   solutions. The last tasks might be more complicated than the first ones and, 
